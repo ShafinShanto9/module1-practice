@@ -19,3 +19,14 @@ h1 {
   text-align: center;
   color: orange;
 }
+.about {
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+}
+.about-card {
+  box-shadow: 5px 10px 40px gray;
+  padding: 10px 20px;
+  text-align: center;
+  margin: 30px;
+  border-radius: 5px;
+}
