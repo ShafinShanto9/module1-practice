@@ -30,10 +30,10 @@ h1 {
   margin: 30px;
   border-radius: 5px;
 }
-.client {
+.card-wrapper {
   display: flex;
 }
-.client-card {
+.card {
   width: 33%;
   margin: 4%;
   box-shadow: 5px 10px 40px gray;
@@ -44,4 +44,8 @@ h1 {
   background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
+}
+footer p {
+  margin-top: 30px;
+  text-align: center;
 }
